@@ -10,6 +10,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Contoh Penggunaan
+* Tutorial lengkap bisa lihat di https://developer.kirimwa.id
 ```
 Edit Api Key Kamu Di wa.py line 8
 
